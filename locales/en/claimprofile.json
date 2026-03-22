@@ -1,0 +1,7 @@
+{
+    "claim-unregistered-user": "To claim an unregistered user, use the normal login system to initiate a claim.",
+    "claim-aredl-pemonlist": "For AREDL and Pemonlist, this works assuming your account has been created with the same Discord account you're using to login.",
+    "claim-pointercrate": "The Pointercrate Demonlist requires a different process, with a guide provided on our account linking guide.",
+    "claim-geometry-dash": "As for Geometry Dash / Updated Leaderboard, it works if on the Updated Leaderboard, you are linked to said Geometry Dash account using the same Discord account.",
+    "claim-warning": "If the claim didn't happen, contact a staff member on our Discord server."
+}

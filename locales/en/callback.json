@@ -1,0 +1,12 @@
+{
+    "authenticating": "Authenticating",
+    "validating-login": "Validating login...",
+    "account-created": "Account Created",
+    "welcome-to-gsv": "Welcome to Global Stats Viewer",
+    "account-created-merged": "Account Created & Merged",
+    "welcome-back": "Welcome back to GSV",
+    "login-successful": "Login Successful",
+    "successfully-authenticated": "You have been successfully authenticated.",
+    "authentication-failed": "Authentication Failed",
+    "login-error": "An error occurred during login. Please try logging in again."
+}

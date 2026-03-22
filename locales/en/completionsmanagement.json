@@ -1,0 +1,8 @@
+{
+    "refresh-completions-description": "If you're linked to any account (GD, AREDL, Pointercrate), you can use this button to fetch your completions across your different platforms.",
+    "refresh-completions-warning": "You can only refresh once per hour",
+    "add-completion-data-1": "Once your completions have been fetched, you can append data to them.",
+    "add-completion-data-2": "For youtube links, those are fetched automatically and cannot be changed. You can request a modification by contacting staff.",
+    "generate-spreadsheet": "And if you want to, you can generate a spreadsheet of your completions!",
+    "update-gd-stats-description": "To get your GD stats updated on the site, you need to run /profile with the UL bot in #⁠bot-commands to send your new GD Stats to Updated Leaderboards. Then wait for the notification on the site (it should appear in an hour to a day). After this, you can click on \"Sync completions\" to display your new GD stats in your profile."
+}

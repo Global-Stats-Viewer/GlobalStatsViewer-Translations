@@ -1,0 +1,12 @@
+{
+    "greeting": "Hello",
+    "environment": "Environment:",
+    "communicating": "Communicating with:",
+    "communication-server": "Data from chosen communication server",
+    "login-button": "Login button",
+    "logout": "LOGOUT",
+    "login": "LOGIN",
+    "test-alert": "test alert",
+    "test": "TEST",
+    "pending-test": "Test pending alert (Refresh page)"
+}
