@@ -16,5 +16,8 @@
     "pointercrate-access-token": "Once you have had your claim verified, you can copy your Pointercrate access token from the Profile tab. Do not share this token with anyone!",
     "pointercrate-access-token-2": "Finally, enter your access token in the ",
     "bot-command": "bot channel using the command /link.",
-    "pointercrate-linking-instructions": "After this, you should be able to enter your Pointercrate demonlist username on the account linking page and click on the Link button."
+    "pointercrate-linking-instructions": "After this, you should be able to enter your Pointercrate demonlist username on the account linking page and click on the Link button.",
+    "section-gd-ul": "Geometry Dash / Updated Leaderboard",
+    "section-aredl-pemonlist": "AREDL and Pemonlist",
+    "section-pointercrate": "Pointercrate"
 }
