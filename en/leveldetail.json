@@ -20,7 +20,9 @@
     "rating": "Rating",
     "rating-date": "Rating Date",
     "rating-date-not-stored": "Rating date not stored",
+    "unknown": "Unknown",
     "no-showcase-url-stored": "No showcase URL stored",
+    "no-list-placements-stored": "No list placements stored",
     "music": "Music",
     "song-name": "Song Name(s)",
     "song-name-not-stored": "Song names are not stored for this level",
@@ -37,6 +39,8 @@
     "map-pack": "Map Pack",
     "gauntlet": "Gauntlet",
     "coins": "Coins",
+    "yes": "Yes",
+    "no": "No",
     "coins-verified": "verified",
     "coins-not-verified": "not verified"
 }
