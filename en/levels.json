@@ -1,0 +1,17 @@
+{
+    "levels": "Levels",
+    "search": "Search",
+    "search-for-any-level": "Search for any Geometry Dash level with GSV.",
+    "search-description": "Search by level name or exact ID, then narrow it down with gamemode, rating, special types, showcases, and list filters.",
+    "search-placeholder": "Search by level name or ID",
+    "gamemode": "Gamemode",
+    "rating": "Rating",
+    "special": "Special",
+    "showcase-only": "Showcase only",
+    "list-only": "List entries only",
+    "results": "Results",
+    "levels-found": "levels found",
+    "showing": "Showing",
+    "no-levels-matched": "No levels matched these filters.",
+    "try-broadening-search": "Try broadening the search, clearing a filter, or toggling off list/showcase-only mode."
+}
