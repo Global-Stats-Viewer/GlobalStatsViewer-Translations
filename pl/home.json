@@ -1,3 +1,12 @@
 {
-    "greeting": "Witaj"
+    "greeting": "Witaj",
+    "environment": "Środowisko:",
+    "communicating": "Komunikacja z:",
+    "communication-server": "Dane z wybranego serwera komunikacyjnego",
+    "login-button": "Przycisk logowania",
+    "logout": "WYLOGUJ",
+    "login": "ZALOGUJ",
+    "test-alert": "test alert",
+    "test": "TEST",
+    "pending-test": "Testowy oczekujący alert (Odśwież stronę)"
 }

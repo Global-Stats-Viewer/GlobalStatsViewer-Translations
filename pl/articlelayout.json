@@ -1,0 +1,29 @@
+{
+    "completions-management": "Zarządzanie ukończeniami",
+    "accounts-linking": "Konta i powiązania",
+    "accounts-profiles": "Konta i profile",
+    "claim-profile": "Jak zgłosić profil jako swój",
+    "back-to-support": "Powrót do wsparcia",
+    "articles": "Artykuły",
+    "on-this-page": "Na tej stronie",
+    "support": "Wsparcie",
+    "article": "Artykuł",
+    "articleNav": {
+        "completions": {
+            "title": "Zarządzanie ukończeniami",
+            "description": "Dowiedz się, jak zarządzać i pobierać swoje ukończenia."
+        },
+        "accountsLinking": {
+            "title": "Konta i powiązania",
+            "description": "Jak powiązać profile z innych serwisów."
+        },
+        "accountsProfiles": {
+            "title": "Konta i profile",
+            "description": "Jak utworzyć konto i jaka jest różnica między użytkownikiem a profilem."
+        },
+        "claimProfile": {
+            "title": "Jak zgłosić profil jako swój",
+            "description": "Jeśli jesteś osobą stojącą za profilem na liście wyników, oto jak możesz go zgłosić jako swój."
+        }
+    }
+}
