@@ -7,5 +7,23 @@
     "articles": "Articles",
     "on-this-page": "On this page",
     "support": "Support",
-    "article": "Article"
+    "article": "Article",
+    "articleNav": {
+        "completions": {
+            "title": "Completions Management",
+            "description": "Learn how to manage & fetch your completions."
+        },
+        "accountsLinking": {
+            "title": "Accounts & Linking",
+            "description": "How to link to profiles from other websites."
+        },
+        "accountsProfiles": {
+            "title": "Accounts & Profiles",
+            "description": "How to create an account & what's the difference between a user and a profile."
+        },
+        "claimProfile": {
+            "title": "How to Claim a Profile",
+            "description": "If you are the person behind a profile on the leaderboard, here's how you can claim it."
+        }
+    }
 }
