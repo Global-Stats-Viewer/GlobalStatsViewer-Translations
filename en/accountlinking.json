@@ -2,7 +2,7 @@
     "profile-pre-filled": "If your profile was already on the leaderboard, it is possible that some of these links have been pre-filled.",
     "gd-ul-notice": "To link your Global Stats Viewer account to a Geometry Dash account, you need to be on the Updated Leaderboard to link your discord account to your GD account.",
     "gd-ul-notice-2": "If you're not on UL, the website will simply say that your GD account doesn't exist.",
-    "gd-ul-linking": "Once on UL, you can click on link and GSV will automatically check if you own the account or not. This only works if both are linked to the same Discord account.",
+    "gd-ul-linking": "Once on UL, you can click on link and Global Stats Viewer will automatically check if you own the account or not. This only works if both are linked to the same Discord account.",
     "gd-ul-learn-more": "Learn how to get on the Updated Leaderboard here:",
     "gd-ul-request": "Make use to use /request in case you have a \"You do not own this Geometry Dash account\" error",
     "gd-ul-wait-until-import": "If you still can't link to your GD account after a UL link, please wait until we import new UL data, this usually happens every 24 hours.",

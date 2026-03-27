@@ -1,6 +1,6 @@
 {
     "login-page-notice": "You can use the login page to create or login to your Global Stats Viewer account.",
-    "discord-link-explanation": "Using this system, your GSV account is now linked to your discord account. You can manage your overall account (username, bio, etc...) as well as your completions & the data associated with them using this account.",
+    "discord-link-explanation": "Using this system, your Global Stats Viewer account is now linked to your discord account. You can manage your overall account (username, bio, etc...) as well as your completions & the data associated with them using this account.",
     "unregistered-users-explanation": "Unregistered users are accounts that have not been created on the Global Stats Viewer platform.",
     "unregistered-users-explanation-2": "Unregistered users are those that have not created a Global Stats Viewer account. These accounts are fetched from other websites (such as the AREDL, Pointercrate or UL). The person behind this account has never created a Global Stats Viewer account & this data is only here to provide a more accurate ranking for everyone.",
     "section-creating-an-account": "Creating an Account",
