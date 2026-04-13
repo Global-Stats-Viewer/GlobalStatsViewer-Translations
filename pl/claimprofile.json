@@ -1,3 +1,8 @@
 {
-  "section-claim-main": "Zgłaszanie konta"
+    "claim-unregistered-user": "Aby zgłosić niezarejestrowanego użytkownika, użyj standardowego systemu logowania, aby rozpocząć zgłoszenie.",
+    "claim-aredl-pemonlist": "W przypadku AREDL i Pemonlist działa to pod warunkiem, że konto zostało utworzone przy użyciu tego samego konta Discord, którego używasz do logowania.",
+    "claim-pointercrate": "Pointercrate Demonlist wymaga innego procesu, a przewodnik znajdziesz w naszym poradniku powiązywania kont.",
+    "claim-geometry-dash": "Jeśli chodzi o Geometry Dash / Updated Leaderboard, działa to tak, że na Updated Leaderboard musisz mieć to konto Geometry Dash połączone z tym samym kontem Discord.",
+    "claim-warning": "Jeśli zgłoszenie nie zadziałało, skontaktuj się z członkiem zespołu na naszym serwerze Discord.",
+    "section-claim-main": "Zgłaszanie konta"
 }

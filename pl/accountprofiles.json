@@ -1,4 +1,8 @@
 {
-  "section-creating-an-account": "Tworzenie konta",
-  "section-unregistered": "Użytkownicy niezarejestrowani"
+    "login-page-notice": "Możesz użyć strony logowania, aby utworzyć konto Global Stats Viewer lub zalogować się do niego.",
+    "discord-link-explanation": "Korzystając z tego systemu, Twoje konto Global Stats Viewer jest teraz połączone z kontem Discord. Możesz zarządzać całym kontem (nazwa użytkownika, bio itp.), a także swoimi ukończeniami i danymi z nimi powiązanymi.",
+    "unregistered-users-explanation": "Użytkownicy niezarejestrowani to konta, które nie zostały utworzone na platformie Global Stats Viewer.",
+    "unregistered-users-explanation-2": "Użytkownicy niezarejestrowani to osoby, które nie utworzyły konta Global Stats Viewer. Te konta są pobierane z innych stron (takich jak AREDL, Pointercrate lub UL). Osoba stojąca za takim kontem nigdy nie utworzyła konta Global Stats Viewer, a te dane są tutaj tylko po to, aby zapewnić wszystkim dokładniejszy ranking.",
+    "section-creating-an-account": "Tworzenie konta",
+    "section-unregistered": "Użytkownicy niezarejestrowani"
 }

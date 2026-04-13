@@ -1,4 +1,10 @@
 {
-  "section-refresh-completions": "Odświeżanie ukończeń",
-  "section-update-gd-stats": "Aktualizacja statystyk GD"
+    "refresh-completions-description": "Jeśli masz powiązane jakiekolwiek konto (GD, AREDL, Pointercrate), możesz użyć tego przycisku, aby pobrać swoje ukończenia z różnych platform.",
+    "refresh-completions-warning": "Możesz odświeżyć tylko raz na godzinę.",
+    "add-completion-data-1": "Po pobraniu ukończeń możesz dodać do nich dane.",
+    "add-completion-data-2": "Linki do YouTube są pobierane automatycznie i nie można ich zmienić. Możesz poprosić o modyfikację, kontaktując się ze staffem.",
+    "generate-spreadsheet": "Jeśli chcesz, możesz też wygenerować arkusz swoich ukończeń!",
+    "update-gd-stats-description": "Aby zaktualizować swoje statystyki GD na stronie, uruchom /profile z botem UL w #bot-commands, aby wysłać nowe statystyki GD do Updated Leaderboards. Następnie poczekaj na powiadomienie na stronie (powinno pojawić się od godziny do jednego dnia). Potem możesz kliknąć \"Sync completions\", aby wyświetlić nowe statystyki GD w swoim profilu.",
+    "section-refresh-completions": "Odświeżanie ukończeń",
+    "section-update-gd-stats": "Aktualizacja statystyk GD"
 }

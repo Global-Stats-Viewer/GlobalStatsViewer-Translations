@@ -1,5 +1,23 @@
 {
-  "section-gd-ul": "Geometry Dash / Zaktualizowana Lista Rankingowa",
-  "section-aredl-pemonlist": "AREDL i Pemonlist",
-  "section-pointercrate": "Pointercrate"
+    "profile-pre-filled": "Jeśli Twój profil był już na liście rankingowej, możliwe, że część tych powiązań została wstępnie uzupełniona.",
+    "gd-ul-notice": "Aby powiązać konto Global Stats Viewer z kontem Geometry Dash, musisz być na Updated Leaderboard, żeby połączyć konto Discord z kontem GD.",
+    "gd-ul-notice-2": "Jeśli nie ma Cię na UL, strona po prostu wyświetli, że Twoje konto GD nie istnieje.",
+    "gd-ul-linking": "Gdy będziesz już na UL, możesz kliknąć Link, a Global Stats Viewer automatycznie sprawdzi, czy jesteś właścicielem konta. Działa to tylko wtedy, gdy oba konta są połączone z tym samym kontem Discord.",
+    "gd-ul-learn-more": "Dowiedz się tutaj, jak dostać się na Updated Leaderboard:",
+    "gd-ul-request": "Użyj /request, jeśli pojawi się błąd \"You do not own this Geometry Dash account\".",
+    "gd-ul-wait-until-import": "Jeśli po połączeniu z UL nadal nie możesz powiązać konta GD, poczekaj na import nowych danych UL, zwykle dzieje się to co 24 godziny.",
+    "gd-ul-still-cant-link": "Jeśli po imporcie UL nadal nie możesz powiązać konta GD, skontaktuj się z członkiem zespołu.",
+    "aredl-pemonlist-notice": "Jeśli konto AREDL i/lub Pemonlist masz połączone z tym samym kontem Discord co konto Global Stats Viewer, Twoje konta zostaną powiązane po kliknięciu przycisku Link.",
+    "pointercrate-notice": "Aby powiązać konto Global Stats Viewer z kontem Pointercrate, musisz utworzyć konto w Pointercrate, wchodząc do Pointercrate User Area.",
+    "pointercrate-notice-2": "Jeśli jeszcze tego nie zrobiłeś, musisz zgłosić swojego gracza demonlisty na koncie Pointercrate. Claimowanie gracza to proces przypisania gracza demonlisty do konta użytkownika Pointercrate. Zweryfikowane zgłoszenie pozwala powiązać konto z Global Stats Viewer.",
+    "pointercrate-notice-3": "Aby rozpocząć zgłoszenie, kliknij pióro po lewej stronie nagłówka \"Claimed Player\". Po rozpoczęciu będziesz mieć niezweryfikowane zgłoszenie gracza. Te zgłoszenia są następnie ręcznie weryfikowane przez członków zespołu Pointercrate. O weryfikację możesz poprosić w ",
+    "pointercrate-notice-4": "Nie możesz rozpocząć zgłoszenia gracza, który ma już zweryfikowane zgłoszenie od innego użytkownika.",
+    "pointercrate-account-example": "Poniżej znajduje się przykład zweryfikowanego konta Pointercrate:",
+    "pointercrate-access-token": "Gdy Twoje zgłoszenie zostanie zweryfikowane, możesz skopiować token dostępu Pointercrate z zakładki Profile. Nie udostępniaj tego tokena nikomu!",
+    "pointercrate-access-token-2": "Na koniec wpisz token dostępu w ",
+    "bot-command": "kanale bot, używając komendy /link.",
+    "pointercrate-linking-instructions": "Po tym powinieneś móc wpisać nazwę użytkownika demonlisty Pointercrate na stronie powiązywania kont i kliknąć przycisk Link.",
+    "section-gd-ul": "Geometry Dash / Updated Leaderboard",
+    "section-aredl-pemonlist": "AREDL i Pemonlist",
+    "section-pointercrate": "Pointercrate"
 }

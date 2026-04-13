@@ -6,7 +6,7 @@
     "login-button": "Przycisk logowania",
     "logout": "WYLOGUJ",
     "login": "ZALOGUJ",
-    "test-alert": "test alert",
+    "test-alert": "alert testowy",
     "test": "TEST",
-    "pending-test": "Testowy oczekujący alert (Odśwież stronę)"
+    "pending-test": "Oczekujący alert testowy (Odśwież stronę)"
 }
