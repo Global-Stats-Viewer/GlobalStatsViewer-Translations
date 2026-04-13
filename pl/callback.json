@@ -1,0 +1,12 @@
+{
+    "authenticating": "Uwierzytelnianie",
+    "validating-login": "Weryfikowanie logowania...",
+    "account-created": "Konto utworzone",
+    "welcome-to-gsv": "Witamy w Global Stats Viewer",
+    "account-created-merged": "Konto utworzone i scalone",
+    "welcome-back": "Witamy ponownie w Global Stats Viewer",
+    "login-successful": "Logowanie zakończone sukcesem",
+    "successfully-authenticated": "Uwierzytelnienie zakończone pomyślnie.",
+    "authentication-failed": "Uwierzytelnianie nie powiodło się",
+    "login-error": "Wystąpił błąd podczas logowania. Spróbuj zalogować się ponownie."
+}
