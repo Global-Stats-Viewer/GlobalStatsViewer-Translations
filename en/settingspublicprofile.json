@@ -21,6 +21,13 @@
   "change-accent-color": "Change your profile's accent color.",
   "add-social-links": "ADD SOCIAL LINKS",
   "add-social-links-description": "Add links to your social media.",
+  "geolocation": "GEOLOCATION",
+  "primary-country-label": "PRIMARY COUNTRY",
+  "primary-country-placeholder": "Select a primary country",
+  "secondary-country-label": "SECONDARY COUNTRY",
+  "secondary-country-placeholder": "Select a secondary country",
+  "subdivision-label": "SUBDIVISION",
+  "subdivision-placeholder": "Select a subdivision",
   "loading": "Loading...",
   "hex": "HEX"
 }

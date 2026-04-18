@@ -1,0 +1,12 @@
+{
+  "country-label": "KRAJ",
+  "country-placeholder": "Wybierz kraj",
+  "countries-loading": "Ładowanie krajów...",
+  "countries-search-placeholder": "Wyszukaj kraj po nazwie",
+  "countries-empty": "Nie znaleziono krajów.",
+  "subdivision-label": "WOJEWÓDZTWO",
+  "subdivision-placeholder": "Wybierz województwo",
+  "subdivisions-loading": "Ładowanie województw...",
+  "subdivisions-search-placeholder": "Wyszukaj województwo po nazwie",
+  "subdivisions-empty": "Nie znaleziono województw."
+}

@@ -1,0 +1,12 @@
+{
+  "country-label": "COUNTRY",
+  "country-placeholder": "Select a country",
+  "countries-loading": "Loading countries...",
+  "countries-search-placeholder": "Search country by name",
+  "countries-empty": "No countries found.",
+  "subdivision-label": "SUBDIVISION",
+  "subdivision-placeholder": "Select a subdivision",
+  "subdivisions-loading": "Loading subdivisions...",
+  "subdivisions-search-placeholder": "Search subdivision by name",
+  "subdivisions-empty": "No subdivisions found."
+}

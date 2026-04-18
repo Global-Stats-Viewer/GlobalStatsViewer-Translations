@@ -21,6 +21,13 @@
     "change-accent-color": "Zmień kolor akcentu swojego profilu.",
     "add-social-links": "DODAJ LINKI DO MEDIÓW SPOŁECZNOŚCIOWYCH",
     "add-social-links-description": "Dodaj linki do swoich mediów społecznościowych.",
+    "geolocation": "GEOLOKALIZACJA",
+    "primary-country-label": "KRAJ GŁÓWNY",
+    "primary-country-placeholder": "Wybierz kraj główny",
+    "secondary-country-label": "KRAJ DODATKOWY",
+    "secondary-country-placeholder": "Wybierz kraj dodatkowy",
+    "subdivision-label": "WOJEWÓDZTWO",
+    "subdivision-placeholder": "Wybierz województwo",
     "loading": "Ładowanie...",
     "hex": "HEX"
 }
