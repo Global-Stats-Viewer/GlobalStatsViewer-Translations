@@ -51,5 +51,6 @@
     "meta": "Meta",
     "difficulty": "Difficulty",
     "object-count": "Object Count",
-    "more": "More"
+    "more": "More",
+    "no-completions": "No completions"
 }
