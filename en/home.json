@@ -8,5 +8,16 @@
     "login": "LOGIN",
     "test-alert": "test alert",
     "test": "TEST",
-    "pending-test": "Test pending alert (Refresh page)"
+    "pending-test": "Test pending alert (Refresh page)",
+    "leaderboard": "Leaderboard",
+    "dashboard": "Dashboard",
+    "create-account": "Create an account with Discord",
+    "no-preview": "No preview available, open link",
+    "no-image-available": "No image available",
+    "featured-achievements": "Featured Achievements",
+    "no-featured-achievements": "No featured achievements yet.",
+    "registered-accounts": "Registered Accounts",
+    "tracked-players": "Tracked Players",
+    "completions": "Completions",
+    "supporters": "Supporters"
 }
