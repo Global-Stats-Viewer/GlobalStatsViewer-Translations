@@ -1,4 +1,5 @@
 {
+  "users-search": "Users Search",
   "title": "Users",
   "search-by": "Search By",
   "search-placeholder": "Search by",
@@ -101,5 +102,6 @@
   "sort-points": "Points",
   "direction": "Direction",
   "dir-asc": "Ascending",
-  "dir-desc": "Descending"
+  "dir-desc": "Descending",
+  "ordering": "Ordering"
 }
