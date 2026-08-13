@@ -4,5 +4,7 @@
     "drag-roles-here": "Drag roles here to assign them",
     "available-roles": "Available Roles",
     "locked-roles": "Locked Roles",
-    "save": "Save"
+    "save": "Save",
+    "add-all": "Add All",
+    "remove-all": "Remove All"
 }
