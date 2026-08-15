@@ -36,7 +36,7 @@
   "color-picker": "COLOR PICKER",
   "hex": "HEX",
   "favorite-levels": "FAVORITE LEVELS",
-  "favorite-levels-description": "Set your favorite level to appear on your profile. You can do this for both classic and platformer.",
+  "favorite-levels-description": "Select a level from your completions to use as your profile background.",
   "always-choose-hardest": "Always choose hardest",
   "search-levels": "Search levels"
 }
