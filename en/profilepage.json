@@ -24,5 +24,7 @@
     "position-within-lb": "Position within the global leaderboard",
     "gsv-rank": "GSV Rank",
     "registered-users-only": "Registered users only",
-    "registered-on": "Registered on"
+    "registered-on": "Registered on",
+    "unregistered-notice": "This account is not a registered Global Stats Viewer user and has been fetched from community projects like the AREDL, Pointercrate, Pemonlist, or Updated Leaderboard. Own this profile? Learn how to submit a merge request",
+    "here": "here."
 }
