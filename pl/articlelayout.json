@@ -1,10 +1,12 @@
 {
     "completions-management": "Zarządzanie ukończeniami",
-    "accounts-linking": "Konta i powiązania",
+    "account-linking": "Konta i powiązania",
     "accounts-profiles": "Konta i profile",
     "claim-profile": "Jak zgłosić profil jako swój",
     "back-to-support": "Powrót do wsparcia",
     "articles": "Artykuły",
+    "changelog": "changelog",
+    "registered-unregistered-users": "registered-unregistered-users",
     "on-this-page": "Na tej stronie",
     "support": "Wsparcie",
     "article": "Artykuł",
